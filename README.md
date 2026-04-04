@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Full+Stack+en+formación;Apasionado+por+la+tecnología;Construyendo+proyectos+reales" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Desarrollador+Web+Full+Stack+en+formación;Apasionado+por+la+tecnología;Construyendo+proyectos+reales" />
   </a>
 </p>
 
@@ -136,11 +136,11 @@ Web de noticias tecnológicas enfocadas en sostenibilidad.
 ## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanrico1003-glitch&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanrico1003-glitch&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanrico1003-glitch&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanrico1003-glitch&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 
