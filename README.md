@@ -136,17 +136,16 @@ Web de noticias tecnológicas enfocadas en sostenibilidad.
 ## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanrico1003-glitch&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=juanrico1003-glitch&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanrico1003-glitch&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juanrico1003-glitch&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juanrico1003-glitch&theme=tokyonight" />
+</p>
 
 ---
 
