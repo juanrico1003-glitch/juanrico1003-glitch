@@ -1,7 +1,7 @@
 <!-- HEADER ANIMADO -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">👋 Hola, soy Juan Rico</h1>
@@ -74,7 +74,7 @@ Web de noticias tecnológicas enfocadas en sostenibilidad.
 
 ---
 
-## 📊 Nivel de habilidades (editar)
+## 📊 Nivel de habilidades
 
 * HTML ██████████ 90%
 * CSS █████████░░ 80%
@@ -135,9 +135,6 @@ Web de noticias tecnológicas enfocadas en sostenibilidad.
 
 ## 📈 Estadísticas
 
-<!-- Actívalas cuando quieras -->
-
-<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juanrico1003-glitch&show_icons=true&theme=radical" />
 </p>
@@ -145,7 +142,7 @@ Web de noticias tecnológicas enfocadas en sostenibilidad.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanrico1003-glitch&layout=compact&theme=radical" />
 </p>
--->
+
 
 ---
 
