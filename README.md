@@ -1,16 +1,154 @@
-## Hi there 👋
+<!-- HEADER ANIMADO -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">👋 Hola, soy Juan Rico</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Full+Stack+en+formación;Apasionado+por+la+tecnología;Construyendo+proyectos+reales" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+💻 Desarrollador web en formación enfocado en tecnologías modernas
+🚀 Construyo aplicaciones completas (frontend + backend)
+📱 Enfocado en soluciones reales como **NeusPhone**
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 📱 NeusPhone
+
+Plataforma web para compra, venta y mantenimiento de celulares.
+
+<p align="center">
+  <a href="https://github.com/juanrico1003-glitch/NeusPhone-Laravel">
+    <img src="https://img.shields.io/badge/🔗 Ver Repositorio-000?style=for-the-badge" />
+  </a>
+</p>
+
+🛠️ Laravel • MySQL • Tailwind • JavaScript
+
+---
+
+### 🧠 DevHub-Tools
+
+Aplicación web que usa IA (Gemini) para convertir código entre lenguajes.
+
+<p align="center">
+  <a href="https://github.com/juanrico1003-glitch/DevHub-Tools">
+    <img src="https://img.shields.io/badge/🔗 Ver Repositorio-000?style=for-the-badge" />
+  </a>
+</p>
+
+🛠️ Laravel • APIs • MySQL • JavaScript
+
+---
+
+### 🌱 NewEcoTech
+
+Web de noticias tecnológicas enfocadas en sostenibilidad.
+
+<p align="center">
+  <a href="https://github.com/juanrico1003-glitch/NewEcoTech">
+    <img src="https://img.shields.io/badge/🔗 Ver Repositorio-000?style=for-the-badge" />
+  </a>
+</p>
+
+🛠️ Node.js • Express • Next.js • MySQL
+
+---
+
+## 🛠️ Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nextjs,java,nodejs,express,tailwind,mysql" />
+</p>
+
+---
+
+## 📊 Nivel de habilidades (editar)
+
+* HTML ██████████ 90%
+* CSS █████████░░ 80%
+* JavaScript ███████░░░ 70%
+* PHP / Laravel ███████░░░ 70%
+* Node.js / Express ██████░░░░ 60%
+* Next.js ██████░░░░ 60%
+* Java █████░░░░░ 50%
+* Tailwind ███████░░░ 70%
+* MySQL ███████░░░ 70%
+
+---
+
+## 📚 Actualmente aprendiendo
+
+* ⚡ Arquitectura de software
+* 🔐 Seguridad en aplicaciones web
+* 📦 APIs REST
+* 🧠 Buenas prácticas de desarrollo
+
+---
+
+## 🎯 Próximamente
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,mongodb,react,ts,docker,aws" />
+</p>
+
+---
+
+## 🌐 Conecta conmigo
+
+<p align="center">
+
+<a href="mailto:juanrico1003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/juan-rico-b0798b400/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://x.com/JuanR47029100">
+  <img src="https://img.shields.io/badge/X-black?logo=twitter&style=for-the-badge"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61585103156184">
+  <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&style=for-the-badge"/>
+</a>
+
+<a href="https://www.instagram.com/ju.an._.ju.an/">
+  <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+## 📈 Estadísticas
+
+<!-- Actívalas cuando quieras -->
 
 <!--
-**juanrico1003-glitch/juanrico1003-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanrico1003-glitch&show_icons=true&theme=radical" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanrico1003-glitch&layout=compact&theme=radical" />
+</p>
 -->
+
+---
+
+<p align="center">
+🔥 “Construyendo mi camino como desarrollador profesional” 🔥
+</p>
