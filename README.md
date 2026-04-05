@@ -24,6 +24,20 @@
 
 ## 🚀 Proyectos Destacados
 
+### 🎵 Sara Voice Music Bot
+
+Bot de Discord controlado por voz que permite reproducir música usando comandos hablados.
+
+🎤 Control por voz desde canal de música  
+🌐 Compatible con YouTube, Spotify y SoundCloud  
+⚡ Búsqueda automática por nombre y artista  
+
+<p align="center">
+  <a href="https://github.com/juanrico1003-glitch/BotVozMusic">
+    <img src="https://img.shields.io/badge/🚀 Ver Proyecto-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ### 📱 NeusPhone
 
 Plataforma web para compra, venta y mantenimiento de celulares.
