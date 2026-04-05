@@ -122,9 +122,17 @@ Plataforma web de noticias tecnológicas enfocadas en sostenibilidad.
 
 ## 🛠️ Tecnologías  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nextjs,java,nodejs,express,tailwind,mysql" />
-</p>
+## 🛠️ Tecnologías  
+
+![HTML](https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-80%25-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP%20%2F%20Laravel-70%25-777BB4?style=for-the-badge&logo=php)
+![Node.js](https://img.shields.io/badge/Node.js-60%25-339933?style=for-the-badge&logo=node.js)
+![Next.js](https://img.shields.io/badge/Next.js-60%25-000000?style=for-the-badge&logo=next.js)
+![Java](https://img.shields.io/badge/Java-50%25-007396?style=for-the-badge&logo=java)
+![Tailwind](https://img.shields.io/badge/Tailwind-70%25-06B6D4?style=for-the-badge&logo=tailwindcss)
+![MySQL](https://img.shields.io/badge/MySQL-70%25-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
