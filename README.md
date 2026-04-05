@@ -6,8 +6,10 @@
 
 <h1 align="center">👋 Hola, soy Juan Rico</h1>
 
-<p align="center" style="background-color:white; padding:10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=003140&center=true&vCenter=true&width=800&lines=Desarrollador+Web+Full+Stack+en+formación;Apasionado+por+la+tecnología;Construyendo+proyectos+reales" />
+<p align="center"> 
+  <a href="https://git.io/typing-svg"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=45d0ff&center=true&vCenter=true&width=650&lines=Desarrollador+Web+Full+Stack+en+formación;Apasionado+por+la+tecnología;Construyendo+proyectos+reales" /> 
+  </a> 
 </p>
 
 ---
