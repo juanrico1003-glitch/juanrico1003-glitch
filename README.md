@@ -120,15 +120,11 @@ Plataforma web de noticias tecnológicas enfocadas en sostenibilidad.
 
 ## 📊 Nivel de habilidades
 
-* HTML ██████████ 90%
-* CSS █████████░░ 80%
-* JavaScript ███████░░░ 70%
-* PHP / Laravel ███████░░░ 70%
-* Node.js / Express ██████░░░░ 60%
-* Next.js ██████░░░░ 60%
-* Java █████░░░░░ 50%
-* Tailwind ███████░░░ 70%
-* MySQL ███████░░░ 70%
+## 🛠️ Tecnologías  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nextjs,java,nodejs,express,tailwind,mysql" />
+</p>
 
 ---
 
