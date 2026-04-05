@@ -42,39 +42,64 @@ Bot de Discord controlado por voz que permite reproducir música usando comandos
 
 Plataforma web para compra, venta y mantenimiento de celulares.
 
+🛒 Publicación y gestión de productos
+🔧 Solicitud de servicios técnicos
+📱 Sistema completo de compra y venta
+⚙️ Panel administrativo
+
 <p align="center">
   <a href="https://github.com/juanrico1003-glitch/NeusPhone-Laravel">
-    <img src="https://img.shields.io/badge/🔗 Ver Repositorio-000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀 Ver Proyecto-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-🛠️ Laravel • MySQL • Tailwind • JavaScript
+<img src="https://img.shields.io/badge/Laravel-Backend-red?style=flat-square&logo=laravel" />
+<img src="https://img.shields.io/badge/MySQL-Database-orange?style=flat-square&logo=mysql" />
+<img src="https://img.shields.io/badge/Tailwind-Frontend-cyan?style=flat-square&logo=tailwindcss" />
+<img src="https://img.shields.io/badge/JavaScript-Logic-yellow?style=flat-square&logo=javascript" />
 
 ---
 
 ### 🧠 DevHub-Tools
 
-Aplicación web que usa IA (Gemini) para convertir código entre lenguajes.
+Aplicación web que utiliza IA (Gemini) para convertir código entre diferentes lenguajes.
+
+🤖 Conversión automática de código
+🔄 Soporte para múltiples lenguajes
+⚡ Integración con inteligencia artificial
 
 <p align="center">
   <a href="https://github.com/juanrico1003-glitch/DevHub-Tools">
-    <img src="https://img.shields.io/badge/🔗 Ver Repositorio-000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀 Ver Proyecto-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-🛠️ Laravel • APIs • MySQL • JavaScript
+<img src="https://img.shields.io/badge/Laravel-Backend-red?style=flat-square&logo=laravel" />
+<img src="https://img.shields.io/badge/API-Integration-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/MySQL-Database-orange?style=flat-square&logo=mysql" />
+<img src="https://img.shields.io/badge/JavaScript-Logic-yellow?style=flat-square&logo=javascript" />
 
 ---
 
 ### 🌱 NewEcoTech
 
-Web de noticias tecnológicas enfocadas en sostenibilidad.
+Plataforma web de noticias tecnológicas enfocadas en sostenibilidad.
+
+📰 Publicación y gestión de noticias
+🌍 Enfoque en tecnología sostenible
+⚡ Renderizado moderno con Next.js
 
 <p align="center">
   <a href="https://github.com/juanrico1003-glitch/NewEcoTech">
-    <img src="https://img.shields.io/badge/🔗 Ver Repositorio-000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀 Ver Proyecto-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js" />
+<img src="https://img.shields.io/badge/Express-API-black?style=flat-square&logo=express" />
+<img src="https://img.shields.io/badge/Next.js-Frontend-black?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/MySQL-Database-orange?style=flat-square&logo=mysql" />
+
 
 🛠️ Node.js • Express • Next.js • MySQL
 
