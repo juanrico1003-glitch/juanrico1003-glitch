@@ -118,28 +118,10 @@ Plataforma web de noticias tecnológicas enfocadas en sostenibilidad.
 
 ---
 
-## 📊 Nivel de habilidades
+## 📊 Nivel de habilidades  
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'bar',
-    data:{
-      labels:['HTML','CSS','JS','Laravel','Node','Next','Java','Tailwind','MySQL'],
-      datasets:[{
-        label:'Nivel (%)',
-        data:[90,80,70,70,60,60,50,70,70],
-        backgroundColor:[
-          '#E34F26','#1572B6','#F7DF1E','#FF2D20','#339933','#000000','#007396','#06B6D4','#4479A1'
-        ]
-      }]
-    },
-    options:{
-      plugins:{legend:{display:false}},
-      scales:{
-        y:{beginAtZero:true,max:100}
-      }
-    }
-  }" />
+  <img src="https://quickchart.io/chart?width=500&height=300&c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27HTML%27%2C%27CSS%27%2C%27JS%27%2C%27Laravel%27%2C%27Node%27%2C%27Next%27%2C%27Java%27%2C%27Tailwind%27%2C%27MySQL%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Nivel%20%25%27%2Cdata%3A%5B90%2C80%2C70%2C70%2C60%2C60%2C50%2C70%2C70%5D%2CbackgroundColor%3A%5B%27%23E34F26%27%2C%27%231572B6%27%2C%27%23F7DF1E%27%2C%27%23FF2D20%27%2C%27%23339933%27%2C%27%23000000%27%2C%27%23007396%27%2C%27%2306B6D4%27%2C%27%234479A1%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7By%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%7D%7D%7D%7D" />
 </p>
 
 ---
