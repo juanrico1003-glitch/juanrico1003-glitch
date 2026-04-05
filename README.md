@@ -120,36 +120,15 @@ Plataforma web de noticias tecnológicas enfocadas en sostenibilidad.
 
 ## 📊 Nivel de habilidades
 
-## 🛠️ Tecnologías  
-
-## 📊 Nivel de habilidades  
-
-HTML  
-![HTML](https://img.shields.io/badge/HTML-90%25-E34F26?style=flat)
-
-CSS  
-![CSS](https://img.shields.io/badge/CSS-80%25-1572B6?style=flat)
-
-JavaScript  
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-PHP / Laravel  
-![PHP](https://img.shields.io/badge/PHP%20%2F%20Laravel-70%25-777BB4?style=flat)
-
-Node.js / Express  
-![Node.js](https://img.shields.io/badge/Node.js-60%25-339933?style=flat)
-
-Next.js  
-![Next.js](https://img.shields.io/badge/Next.js-60%25-000000?style=flat)
-
-Java  
-![Java](https://img.shields.io/badge/Java-50%25-007396?style=flat)
-
-Tailwind  
-![Tailwind](https://img.shields.io/badge/Tailwind-70%25-06B6D4?style=flat)
-
-MySQL  
-![MySQL](https://img.shields.io/badge/MySQL-70%25-4479A1?style=flat)
+HTML &nbsp;&nbsp;&nbsp; ![90%](https://img.shields.io/badge/90%25-E34F26?style=flat)  
+CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![80%](https://img.shields.io/badge/80%25-1572B6?style=flat)  
+JavaScript ![70%](https://img.shields.io/badge/70%25-F7DF1E?style=flat)  
+PHP/Laravel ![70%](https://img.shields.io/badge/70%25-777BB4?style=flat)  
+Node.js &nbsp;&nbsp; ![60%](https://img.shields.io/badge/60%25-339933?style=flat)  
+Next.js &nbsp;&nbsp; ![60%](https://img.shields.io/badge/60%25-000000?style=flat)  
+Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![50%](https://img.shields.io/badge/50%25-007396?style=flat)  
+Tailwind ![70%](https://img.shields.io/badge/70%25-06B6D4?style=flat)  
+MySQL &nbsp;&nbsp;&nbsp; ![70%](https://img.shields.io/badge/70%25-4479A1?style=flat)  
 
 ---
 
