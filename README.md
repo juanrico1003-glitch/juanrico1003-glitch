@@ -24,7 +24,7 @@
 
 ## 🚀 Proyectos Destacados
 
-### 🎵 Sara Voice Music Bot
+### 🎵 Sara Voice Music Bot  
 
 Bot de Discord controlado por voz que permite reproducir música usando comandos hablados.
 
@@ -37,6 +37,11 @@ Bot de Discord controlado por voz que permite reproducir música usando comandos
     <img src="https://img.shields.io/badge/🚀 Ver Proyecto-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js" />
+<img src="https://img.shields.io/badge/Discord-Bot-blue?style=flat-square&logo=discord" />
+<img src="https://img.shields.io/badge/Voice-Control-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/APIs-Integration-orange?style=flat-square" />
 
 ### 📱 NeusPhone
 
