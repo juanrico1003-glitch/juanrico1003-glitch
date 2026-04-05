@@ -118,25 +118,25 @@ Plataforma web de noticias tecnológicas enfocadas en sostenibilidad.
 
 ---
 
-## 📊 Nivel de habilidades
+## 📊 Nivel de habilidades  
 
-![HTML](https://img.shields.io/badge/HTML-90%25-E34F26?style=flat)
-
-![CSS](https://img.shields.io/badge/CSS-80%25-1572B6?style=flat)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
- 
-![PHP](https://img.shields.io/badge/PHP%20%2F%20Laravel-70%25-777BB4?style=flat)
-
-![Node.js](https://img.shields.io/badge/Node.js-60%25-339933?style=flat)
-
-![Next.js](https://img.shields.io/badge/Next.js-60%25-000000?style=flat)
-
-![Java](https://img.shields.io/badge/Java-50%25-007396?style=flat)
-
-![Tailwind](https://img.shields.io/badge/Tailwind-70%25-06B6D4?style=flat)
-
-![MySQL](https://img.shields.io/badge/MySQL-70%25-4479A1?style=flat) 
+<p align="center">
+  <img src="https://quickchart.io/chart?c={
+    type:'bar',
+    data:{
+      labels:['HTML','CSS','JavaScript','Laravel','Node.js','Next.js','Java','Tailwind','MySQL'],
+      datasets:[{
+        label:'Nivel (%)',
+        data:[90,80,70,70,60,60,50,70,70]
+      }]
+    },
+    options:{
+      scales:{
+        y:{beginAtZero:true,max:100}
+      }
+    }
+  }" />
+</p>
 
 ---
 
