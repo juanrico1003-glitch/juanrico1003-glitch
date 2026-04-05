@@ -118,19 +118,23 @@ Plataforma web de noticias tecnológicas enfocadas en sostenibilidad.
 
 ---
 
-## 📊 Nivel de habilidades  
+## 📊 Nivel de habilidades
 
 <p align="center">
   <img src="https://quickchart.io/chart?c={
     type:'bar',
     data:{
-      labels:['HTML','CSS','JavaScript','Laravel','Node.js','Next.js','Java','Tailwind','MySQL'],
+      labels:['HTML','CSS','JS','Laravel','Node','Next','Java','Tailwind','MySQL'],
       datasets:[{
         label:'Nivel (%)',
-        data:[90,80,70,70,60,60,50,70,70]
+        data:[90,80,70,70,60,60,50,70,70],
+        backgroundColor:[
+          '#E34F26','#1572B6','#F7DF1E','#FF2D20','#339933','#000000','#007396','#06B6D4','#4479A1'
+        ]
       }]
     },
     options:{
+      plugins:{legend:{display:false}},
       scales:{
         y:{beginAtZero:true,max:100}
       }
